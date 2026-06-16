@@ -1,0 +1,22 @@
+{
+  "name": "ctf-oraculum-pwa",
+  "version": "3.0.0",
+  "description": "CTF Oracle - Real Tools + AI Assistant PWA",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vercel": "^50.25.6",
+    "vite": "^5.4.2",
+    "vite-plugin-pwa": "^0.20.1"
+  }
+}
